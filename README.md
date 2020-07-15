@@ -1,4 +1,4 @@
-# exporting_and_integrating_myassistant
+# ibm watson assistant
 
 ### -theres a tutorial for ibm watson in arabic 
 ### -you can try [my chatbot](https://shaimadotcom.github.io/pan/) that was made using IBM watson assistant 
