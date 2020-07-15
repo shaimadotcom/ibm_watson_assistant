@@ -1,0 +1,1376 @@
+{
+  "intents": [
+    {
+      "intent": "عنقليزي",
+      "examples": [
+        {
+          "text": "okay"
+        },
+        {
+          "text": "k"
+        },
+        {
+          "text": "ok"
+        },
+        {
+          "text": "yes"
+        },
+        {
+          "text": "sure"
+        },
+        {
+          "text": "what"
+        },
+        {
+          "text": "hello"
+        },
+        {
+          "text": "hey"
+        },
+        {
+          "text": "hi"
+        }
+      ],
+      "description": ""
+    },
+    {
+      "intent": "دعابه",
+      "examples": [
+        {
+          "text": "اي عطنا نكته"
+        },
+        {
+          "text": "عطني وحد ثانية"
+        },
+        {
+          "text": "عطني وحدة زيادة"
+        },
+        {
+          "text": "عطني زيادة"
+        },
+        {
+          "text": "عطنا وجده ثانية"
+        },
+        {
+          "text": "عطنا وحد ثانية"
+        },
+        {
+          "text": "نكت"
+        },
+        {
+          "text": "قلي نكته"
+        }
+      ],
+      "description": ""
+    },
+    {
+      "intent": "منو",
+      "examples": [
+        {
+          "text": "هل أتحدث مع ووتسون؟"
+        },
+        {
+          "text": "هل أتحدث مع بوت؟"
+        },
+        {
+          "text": "هل أنت إنسان؟"
+        },
+        {
+          "text": "قل لي، هل أنت إنسان أم لا؟"
+        },
+        {
+          "text": "هل أتحدث مع إنسان؟"
+        },
+        {
+          "text": "هل أتحدث مع إنسان أم مع برمجية؟"
+        },
+        {
+          "text": "كيف أدري أنك إنسان حقيقي؟"
+        },
+        {
+          "text": "انت مين؟"
+        },
+        {
+          "text": "منو انت؟"
+        },
+        {
+          "text": "انت انسان؟"
+        },
+        {
+          "text": "هل أنت إنسان أم بوت؟"
+        },
+        {
+          "text": "هل أنت إنسان حقيقي؟"
+        },
+        {
+          "text": "هل هذا مجرد حاسوب؟"
+        },
+        {
+          "text": "هل أنت روبوت؟"
+        }
+      ],
+      "description": ""
+    },
+    {
+      "intent": "تعريف_عن_الموقع",
+      "examples": [
+        {
+          "text": "ما فائدة هذا الموقع"
+        },
+        {
+          "text": "لييش سويت هذا الموقع؟"
+        },
+        {
+          "text": "وش فايدة هذا الموقع"
+        },
+        {
+          "text": "اي"
+        },
+        {
+          "text": "حدثني أكثر"
+        },
+        {
+          "text": "نعم اريد ذلك"
+        },
+        {
+          "text": "هذا موقع ايش"
+        },
+        {
+          "text": "كلمني عن هذا الموقع"
+        }
+      ],
+      "description": ""
+    },
+    {
+      "intent": "فيليرز",
+      "examples": [
+        {
+          "text": "ههههههههههههههههه"
+        },
+        {
+          "text": "اوكي"
+        },
+        {
+          "text": "طيب"
+        },
+        {
+          "text": "اوك"
+        },
+        {
+          "text": "تمام"
+        },
+        {
+          "text": "ههههههههههههه"
+        },
+        {
+          "text": "حلوه"
+        },
+        {
+          "text": "حلو"
+        },
+        {
+          "text": "ههههههههههههههه"
+        },
+        {
+          "text": "هههههههههههههههههههههههه"
+        },
+        {
+          "text": "ههههههههههه"
+        },
+        {
+          "text": "هههههههههههههههههههههههههههههههههههه"
+        },
+        {
+          "text": "ههههههههههههههههههههههههههههههههههههههههههههههههههههههههههههههه"
+        },
+        {
+          "text": "هههههههههههههههه"
+        },
+        {
+          "text": "شكرا"
+        },
+        {
+          "text": "تضحك"
+        },
+        {
+          "text": "سامجة"
+        },
+        {
+          "text": "ماتضحك"
+        },
+        {
+          "text": "مشكور"
+        },
+        {
+          "text": "رائع"
+        },
+        {
+          "text": "بقرأه"
+        },
+        {
+          "text": "بجربه"
+        },
+        {
+          "text": "ما تضحك"
+        },
+        {
+          "text": "لا انت"
+        },
+        {
+          "text": "جميل"
+        },
+        {
+          "text": "هههههههههههههه"
+        },
+        {
+          "text": "جميل بقرأه"
+        },
+        {
+          "text": "سامج"
+        },
+        {
+          "text": "هههههههههههههههههههههه"
+        },
+        {
+          "text": "سماجة"
+        },
+        {
+          "text": "ههههههههههههههههههه"
+        },
+        {
+          "text": "ههههههههه"
+        },
+        {
+          "text": "هذا انت"
+        },
+        {
+          "text": "تسلم"
+        }
+      ],
+      "description": ""
+    },
+    {
+      "intent": "بحث",
+      "examples": [],
+      "description": ""
+    },
+    {
+      "intent": "ترحيب",
+      "examples": [
+        {
+          "text": "السلام عليكم"
+        },
+        {
+          "text": "اوك"
+        },
+        {
+          "text": "سلام"
+        },
+        {
+          "text": "ارحب"
+        },
+        {
+          "text": "هاي"
+        },
+        {
+          "text": "هيلو"
+        },
+        {
+          "text": "هلا"
+        }
+      ],
+      "description": ""
+    },
+    {
+      "intent": "صور",
+      "examples": [
+        {
+          "text": "صوره"
+        },
+        {
+          "text": "عطنا صورة"
+        },
+        {
+          "text": "ابي اشوف صورة"
+        },
+        {
+          "text": "ورني صور"
+        },
+        {
+          "text": "اي ورني"
+        },
+        {
+          "text": "ابي اشوف صور"
+        }
+      ],
+      "description": ""
+    },
+    {
+      "intent": "كيف",
+      "examples": [
+        {
+          "text": "استخدمت css?"
+        },
+        {
+          "text": "اي لغة استخدمة؟"
+        },
+        {
+          "text": "اي لغة مستخدمة في برمجة الموقع"
+        },
+        {
+          "text": "كيف برمجة هذا الموقع"
+        },
+        {
+          "text": "كيف"
+        },
+        {
+          "text": "كيف تم تصميم هذا الموقع"
+        },
+        {
+          "text": "كيف صممت هذا الموقع؟"
+        },
+        {
+          "text": "باي لغة صممت هذا الموقع؟"
+        },
+        {
+          "text": "اي لغة استخدمت؟"
+        },
+        {
+          "text": "استخدمت html?"
+        }
+      ],
+      "description": ""
+    },
+    {
+      "intent": "باي",
+      "examples": [
+        {
+          "text": "باي باي"
+        },
+        {
+          "text": "وداعا"
+        },
+        {
+          "text": "الى اللقاء"
+        },
+        {
+          "text": "في امان الله"
+        },
+        {
+          "text": "هذا كل ما بدي"
+        },
+        {
+          "text": "روح ع الجهنم"
+        },
+        {
+          "text": "رح أشوفك بعدين"
+        },
+        {
+          "text": "يا روبوت، روح من هون."
+        },
+        {
+          "text": "ما عندي طلبات أخرى"
+        },
+        {
+          "text": "ما تحكيش معي أكثر"
+        },
+        {
+          "text": "مع السلامة"
+        },
+        {
+          "text": "باي"
+        }
+      ],
+      "description": ""
+    },
+    {
+      "intent": "ساعدني",
+      "examples": [
+        {
+          "text": "ساعدني اختار كتاب"
+        },
+        {
+          "text": "اخترلي كتاب"
+        },
+        {
+          "text": "كيف اختار كتاب؟"
+        },
+        {
+          "text": "بختار كتاب"
+        },
+        {
+          "text": "ابي كتاب"
+        },
+        {
+          "text": "عطني كتاب"
+        },
+        {
+          "text": "كتب"
+        },
+        {
+          "text": "كتاب"
+        }
+      ]
+    },
+    {
+      "intent": "خدماتي",
+      "examples": [
+        {
+          "text": "ماذا يمكنني أن أطلب منك؟"
+        },
+        {
+          "text": "ماذا تفعل؟"
+        },
+        {
+          "text": "وش فايدتك"
+        },
+        {
+          "text": "وش تسوي"
+        },
+        {
+          "text": "وش تسوي؟"
+        },
+        {
+          "text": "كيف تقدر تخدمني؟"
+        },
+        {
+          "text": "ما هي خياراتي؟"
+        },
+        {
+          "text": "كيف استخدمك؟"
+        },
+        {
+          "text": "هل عندكم قائمة للأشياء التي يمكنني التكلم معكم عنها؟"
+        },
+        {
+          "text": "قل لي عن نوع الأشياء التي تستطيع القيام بها."
+        },
+        {
+          "text": "قل لي شيئا"
+        },
+        {
+          "text": "كيف تستطيع مساعدتي؟"
+        }
+      ],
+      "description": ""
+    },
+    {
+      "intent": "سوالف",
+      "examples": [
+        {
+          "text": "قلي نكته ثانيه"
+        },
+        {
+          "text": "قول نكته ثانيه"
+        },
+        {
+          "text": "قلي مرة ثانيه"
+        },
+        {
+          "text": "عطنا وحدة ثانية"
+        },
+        {
+          "text": "عطنا وحد ثانية"
+        },
+        {
+          "text": "كيفك"
+        },
+        {
+          "text": "ابي زيادة"
+        },
+        {
+          "text": "اخبارك"
+        },
+        {
+          "text": "علومك"
+        },
+        {
+          "text": "خل نسولف"
+        },
+        {
+          "text": "سوالف"
+        },
+        {
+          "text": "سولفلي"
+        },
+        {
+          "text": "يلا سولف"
+        },
+        {
+          "text": "ورني صورة ثانيه"
+        }
+      ],
+      "description": "خل نسولف"
+    },
+    {
+      "intent": "مصادر",
+      "examples": [
+        {
+          "text": "كيف تعلمت"
+        },
+        {
+          "text": "عطني مصادر"
+        },
+        {
+          "text": "عطني مصادر تعلم"
+        },
+        {
+          "text": "عندك مصادر؟"
+        },
+        {
+          "text": "كيف اقدر اسوي موقع"
+        },
+        {
+          "text": "كيف اقدر اتعلم"
+        },
+        {
+          "text": "كيف اقدر اسوي زيك"
+        }
+      ],
+      "description": ""
+    },
+    {
+      "intent": "لماذا",
+      "examples": [
+        {
+          "text": "ليش سويت هذا الموقع؟"
+        },
+        {
+          "text": "لماذا صممت هذا الموقع؟"
+        }
+      ],
+      "description": ""
+    },
+    {
+      "intent": "مصادر2",
+      "examples": [
+        {
+          "text": "في مصادر ثانيه؟"
+        },
+        {
+          "text": "عطني مصادر زيادة"
+        },
+        {
+          "text": "في مصادر زيادة؟"
+        },
+        {
+          "text": "في عندك مصادر زيادة؟"
+        },
+        {
+          "text": "عطني مصادر ثانيه"
+        }
+      ],
+      "description": ""
+    }
+  ],
+  "entities": [
+    {
+      "entity": "ضجك",
+      "values": [
+        {
+          "type": "synonyms",
+          "value": "ضحك",
+          "synonyms": [
+            "طويل",
+            "قصير",
+            "فكاهي",
+            "مضحك",
+            "كوميدي"
+          ]
+        }
+      ]
+    },
+    {
+      "entity": "اللغة",
+      "values": [
+        {
+          "type": "synonyms",
+          "value": "اللغة",
+          "synonyms": [
+            "اللغه",
+            "لغه",
+            "لغة"
+          ]
+        }
+      ],
+      "fuzzy_match": true
+    },
+    {
+      "entity": "sys-date",
+      "values": []
+    },
+    {
+      "entity": "رومانس",
+      "values": [
+        {
+          "type": "synonyms",
+          "value": "رومانسي",
+          "synonyms": [
+            "روايات",
+            "رواية",
+            "خيال علمي",
+            "تاريخي",
+            "فلسفي",
+            "دراما",
+            "حب",
+            "رومانس"
+          ]
+        }
+      ]
+    },
+    {
+      "entity": "حزن",
+      "values": [
+        {
+          "type": "synonyms",
+          "value": "حزن",
+          "synonyms": [
+            "محزن",
+            "يحزن",
+            "بكاء",
+            "دراما",
+            "حزين",
+            "حزن"
+          ]
+        }
+      ]
+    },
+    {
+      "entity": "الفائدة",
+      "values": [
+        {
+          "type": "synonyms",
+          "value": "فائدة",
+          "synonyms": [
+            "وش فايدة الموقع",
+            "مافائدة املوقع",
+            "وش يسوي الموقع"
+          ]
+        }
+      ],
+      "fuzzy_match": true
+    },
+    {
+      "entity": "تصميم",
+      "values": [
+        {
+          "type": "synonyms",
+          "value": "تصميم",
+          "synonyms": [
+            "صممت",
+            "صمم"
+          ]
+        }
+      ],
+      "fuzzy_match": true
+    },
+    {
+      "entity": "ادب",
+      "values": [
+        {
+          "type": "synonyms",
+          "value": "ستف",
+          "synonyms": [
+            "روحي",
+            "التاريخ",
+            "تاريخي",
+            "الفلسفة",
+            "دين",
+            "الدين",
+            "ديني",
+            "فلسفي"
+          ]
+        }
+      ]
+    },
+    {
+      "entity": "رعب",
+      "values": [
+        {
+          "type": "synonyms",
+          "value": "رعب",
+          "synonyms": [
+            "سايكولوجيا",
+            "سايكولجي",
+            "نفسي",
+            "الغموض",
+            "الرعب",
+            "مرعب",
+            "رعب",
+            "غامض",
+            "مثير",
+            "خوف",
+            "مخيف"
+          ]
+        }
+      ]
+    },
+    {
+      "entity": "لماذا",
+      "values": [
+        {
+          "type": "synonyms",
+          "value": "لماذا",
+          "synonyms": [
+            "ليش"
+          ]
+        }
+      ],
+      "fuzzy_match": true
+    },
+    {
+      "entity": "ص",
+      "values": [
+        {
+          "type": "synonyms",
+          "value": "ح",
+          "synonyms": [
+            "طبخ",
+            "طهي",
+            "صحي",
+            "رياضي",
+            "رياضة",
+            "صحة"
+          ]
+        }
+      ]
+    },
+    {
+      "entity": "نكته",
+      "values": [
+        {
+          "type": "synonyms",
+          "value": "نكته ثانيه",
+          "synonyms": [
+            "عطني وحده ثانيه",
+            "عطنا وحدة ثانيه",
+            "قلي وحده ثانيه"
+          ]
+        }
+      ],
+      "fuzzy_match": true
+    },
+    {
+      "entity": "خيال",
+      "values": [
+        {
+          "type": "synonyms",
+          "value": "خيال",
+          "synonyms": [
+            "ادب",
+            "خيالي",
+            "الخيالية",
+            "خيال علمي"
+          ]
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "api_version": {
+      "major_version": "v2",
+      "minor_version": "2018-11-08"
+    },
+    "from-sample": true
+  },
+  "dialog_nodes": [
+    {
+      "type": "standard",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "صممت هذا الموقع كاحد المهمات المسار الرابع في برنامج التدريب الصيفي "
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          },
+          {
+            "values": [],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_9_1594747744587",
+      "conditions": "@لماذا && #لماذا",
+      "dialog_node": "node_7_1594756917299"
+    },
+    {
+      "type": "standard",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "لا خلاص"
+              },
+              {
+                "text": "يكفيييييي"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "random"
+          }
+        ]
+      },
+      "parent": "node_3_1594759605121",
+      "conditions": "@نكته",
+      "dialog_node": "node_6_1594760002644"
+    },
+    {
+      "type": "standard",
+      "title": "مين",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "انا ابوك"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "conditions": "#منو",
+      "dialog_node": "node_4_1594752257184",
+      "previous_sibling": "node_7_1594758201045"
+    },
+    {
+      "type": "standard",
+      "title": "تار",
+      "output": {
+        "generic": [
+          {
+            "title": "كتاب قصص من التاريخ لعلي الطنطاوي",
+            "source": "https://cdn.jamalon.com/c/p/3093727.jpg",
+            "response_type": "image"
+          }
+        ]
+      },
+      "conditions": "@ادب",
+      "dialog_node": "node_6_1594780586459",
+      "previous_sibling": "node_9_1594780655645"
+    },
+    {
+      "type": "standard",
+      "title": "مصادر",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "في هذا الموقع الرهيب:https://www.w3schools.com/default.asp"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "conditions": "#مصادر",
+      "dialog_node": "node_5_1594762693762",
+      "previous_sibling": "node_3_1594762839422"
+    },
+    {
+      "type": "standard",
+      "title": "سولف",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "مو وقت وسوالف"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "conditions": "#سوالف",
+      "dialog_node": "node_3_1594759605121",
+      "previous_sibling": "node_2_1594760104872"
+    },
+    {
+      "type": "standard",
+      "title": "عنقليزي",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "ياخي فكنا من الانجليزي "
+              },
+              {
+                "text": "ياليللللللل تكلم عربي"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "random"
+          },
+          {
+            "values": [
+              {
+                "text": ""
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "conditions": "#عنقليزي",
+      "dialog_node": "node_1_1594748818429",
+      "previous_sibling": "node_9_1594749226326"
+    },
+    {
+      "type": "standard",
+      "title": "حز",
+      "output": {
+        "generic": [
+          {
+            "title": "رواية حلم رجل ضاحك لدوستوفسكي",
+            "source": "assets.com/images/S/compressed.photo.goodreads.com/books/1520518036l/14760689._SX318_.jpg",
+            "response_type": "image"
+          }
+        ]
+      },
+      "conditions": "@حزن",
+      "dialog_node": "node_5_1594780532887",
+      "previous_sibling": "node_6_1594780586459"
+    },
+    {
+      "type": "standard",
+      "title": "فيلرز",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": ":)"
+              },
+              {
+                "text": ":D"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "random"
+          }
+        ]
+      },
+      "conditions": "#فيليرز",
+      "dialog_node": "node_9_1594749226326",
+      "previous_sibling": "node_4_1594752257184"
+    },
+    {
+      "type": "standard",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": ":)"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "conditions": "#ضحك",
+      "dialog_node": "node_3_1594761727112",
+      "previous_sibling": "node_5_1594762693762"
+    },
+    {
+      "type": "standard",
+      "title": "لاف",
+      "output": {
+        "generic": [
+          {
+            "title": "كتاب ابو شلاخ البرمائي",
+            "source": "https://abjjadst.blob.core.windows.net/pub/51e160a9-9999-48b4-87f8-e8214c6e9260.jpg",
+            "response_type": "image"
+          }
+        ]
+      },
+      "conditions": "@ضجك",
+      "dialog_node": "node_5_1594780383446",
+      "previous_sibling": "node_1_1594780496478"
+    },
+    {
+      "type": "standard",
+      "title": "رعب",
+      "output": {
+        "generic": [
+          {
+            "title": "كتاب ثم لم يبق أحد لأجاثا كريستي",
+            "source": "https://5jl.cc/wp-content/uploads/2019/10/2287-9.jpg",
+            "response_type": "image"
+          }
+        ]
+      },
+      "conditions": "@رعب",
+      "dialog_node": "node_9_1594780181722",
+      "previous_sibling": "node_3_1594780312578"
+    },
+    {
+      "type": "standard",
+      "title": "ساعدني",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "اكتب نوعية كتاب  يثير اهتمامك(خيال علمي أو دينية أو رعب الخ...) حتى اقدر اساعدك"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "conditions": "#ساعدني",
+      "dialog_node": "node_3_1594779568468",
+      "previous_sibling": "node_10_1594801317072"
+    },
+    {
+      "type": "standard",
+      "title": "مصادر2",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "قناة  elzero web school"
+              },
+              {
+                "text": "قناة darkcode"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "random"
+          }
+        ]
+      },
+      "conditions": "#مصادر٢",
+      "dialog_node": "node_10_1594801317072",
+      "previous_sibling": "node_4_1594801659325"
+    },
+    {
+      "type": "standard",
+      "title": "ون مور",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "خلاص يكفي"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "conditions": "@نكته",
+      "dialog_node": "node_4_1594801659325",
+      "previous_sibling": "node_8_1594801731491"
+    },
+    {
+      "type": "standard",
+      "title": "باي",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "مع السلامة :("
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "dialog_node": "node_3_1594762839422",
+      "previous_sibling": "node_5_1594768801936"
+    },
+    {
+      "type": "standard",
+      "title": "ههههه",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "في شجرة جمب شجرة ليش؟ يتشاجرون "
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "conditions": "#دعابه",
+      "dialog_node": "node_2_1594760104872",
+      "previous_sibling": "node_9_1594760401384"
+    },
+    {
+      "type": "standard",
+      "title": "مرحبا",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "هلااااا والله"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "next_step": {
+        "behavior": "jump_to",
+        "selector": "body",
+        "dialog_node": "node_5_1594768801936"
+      },
+      "conditions": "#ترحيب",
+      "dialog_node": "مرحبا",
+      "previous_sibling": "node_9_1594747744587"
+    },
+    {
+      "type": "standard",
+      "title": "تعريف_الموقع",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "هذا موقع مصمم ليكون لوحة تحكم"
+              },
+              {
+                "text": "تبي تعرف اي لغة استخدمتها عشان اصمم الموقع؟"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          },
+          {
+            "values": [
+              {
+                "text": ""
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "conditions": "#تعريف_عن_الموقع",
+      "dialog_node": "node_9_1594747744587",
+      "previous_sibling": "node_1_1594748818429"
+    },
+    {
+      "type": "standard",
+      "title": "كيف",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": ""
+              },
+              {
+                "text": "وكثر شطةhtmlونصcssشوية"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "random"
+          }
+        ]
+      },
+      "conditions": "#كيف",
+      "dialog_node": "node_7_1594758201045",
+      "previous_sibling": "node_3_1594759605121"
+    },
+    {
+      "type": "standard",
+      "title": "رن",
+      "output": {
+        "generic": [
+          {
+            "title": "كتاب الامعاء كنزك في بطنك",
+            "source": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1517801812l/38351358._SX318_.jpg",
+            "response_type": "image"
+          }
+        ]
+      },
+      "conditions": "@ص",
+      "dialog_node": "node_9_1594780655645",
+      "previous_sibling": "node_3_1594779568468"
+    },
+    {
+      "type": "standard",
+      "title": "خيال",
+      "output": {
+        "generic": [
+          {
+            "title": "كتاب الة الزمن",
+            "source": "https://www.almrsal.com/wp-content/uploads/2018/05/%D8%B1%D9%88%D8%A7%D9%8A%D8%A9-%D8%A2%D9%84%D8%A9-%D8%A7%D9%84%D8%B2%D9%85%D9%86.jpg",
+            "response_type": "image"
+          }
+        ]
+      },
+      "conditions": "@خيال",
+      "dialog_node": "node_1_1594780496478",
+      "previous_sibling": "node_5_1594780532887"
+    },
+    {
+      "type": "standard",
+      "title": "أي شيء آخر",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "ارحبببببب"
+              },
+              {
+                "text": "جرب صيغة ثانية؟"
+              },
+              {
+                "text": "وش تقول انت"
+              },
+              {
+                "text": "مافهمت :\\"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "conditions": "anything_else",
+      "dialog_node": "أي شيء آخر",
+      "previous_sibling": "مرحبا",
+      "disambiguation_opt_out": true
+    },
+    {
+      "type": "standard",
+      "title": "صور",
+      "output": {
+        "generic": [
+          {
+            "title": "قطة",
+            "source": "https://i.pinimg.com/originals/c1/b7/13/c1b713e73deafe516bec97934a17581b.jpg",
+            "response_type": "image"
+          },
+          {
+            "title": "هذا انت",
+            "source": "https://tatyanaseverydayfood.com/wp-content/uploads/2020/01/Keto-Chocolate-Strawberry-Cake-2.jpg",
+            "response_type": "image"
+          },
+          {
+            "title": "يم",
+            "source": "https://food.fnr.sndimg.com/content/dam/images/food/fullset/2011/2/4/1/RX-FNM_030111-Lighten-Up-012_s4x3.jpg.rend.hgtvcom.616.462.suffix/1382539856907.jpeg",
+            "response_type": "image"
+          },
+          {
+            "values": [],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "conditions": "#صور",
+      "dialog_node": "node_9_1594760401384",
+      "previous_sibling": "node_3_1594761727112"
+    },
+    {
+      "type": "standard",
+      "title": "حدثني",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "اسئلني عن خدماتي\\فائدتي عشان نبدأ نتكلم :)"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "dialog_node": "node_5_1594768801936",
+      "previous_sibling": "node_9_1594780181722"
+    },
+    {
+      "type": "standard",
+      "title": "روم",
+      "output": {
+        "generic": [
+          {
+            "title": "ثلاثية نجيب محفوظ",
+            "source": "https://a5dr.com/wiki/wp-content/uploads/2020/03/%D8%AB%D9%84%D8%A7%D8%AB%D9%8A%D8%A9-%D8%A7%D9%84%D9%82%D8%A7%D9%87%D8%B1%D8%A9-%D9%86%D8%AC%D9%8A%D8%A8-%D9%85%D8%AD%D9%81%D9%88%D8%B8.png",
+            "response_type": "image"
+          }
+        ]
+      },
+      "conditions": "@رومانس",
+      "dialog_node": "node_3_1594780312578",
+      "previous_sibling": "node_5_1594780383446"
+    },
+    {
+      "type": "standard",
+      "title": "خدماتي",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "هذي خدماتي: اقدر اعلمك عن فائدة هذا الموقع وكيف سويته وليش سويته و اي لغة استخدمتها واعطيك مصادر تساعدك في تصميم موقعك+اقدر اسليك بنكته او اوريك صور او نسولف  واقدر اساعدك تختار كتاب "
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "conditions": "#خدماتي",
+      "dialog_node": "node_8_1594801731491"
+    }
+  ],
+  "counterexamples": [
+    {
+      "text": "لا انا ابوك"
+    }
+  ],
+  "system_settings": {
+    "disambiguation": {
+      "prompt": ":هل قصدت",
+      "enabled": true,
+      "randomize": true,
+      "max_suggestions": 5,
+      "suggestion_text_policy": "title",
+      "none_of_the_above_prompt": "كل ما سبق خطأ"
+    },
+    "system_entities": {
+      "enabled": true
+    },
+    "human_agent_assist": {
+      "prompt": ":هل قصدت"
+    }
+  },
+  "learning_opt_out": false,
+  "name": "محادثة",
+  "language": "ar",
+  "description": ""
+}
